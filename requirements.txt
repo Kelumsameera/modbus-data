@@ -1,0 +1,17 @@
+
+Flask
+Flask-SocketIO
+eventlet
+
+
+pyModbusTCP
+pymodbus==3.6.8
+
+influxdb-client
+
+
+pandas
+openpyxl
+
+
+pytz
